@@ -1,6 +1,6 @@
 # 🌀 ai_thinking_orb
 
-[![Pub Package](https://img.shields.io/pub/v/thinking_orb)](https://pub.dev/packages/ai_thinking_orb)
+[![Pub Package](https://img.shields.io/pub/v/ai_thinking_orb)](https://pub.dev/packages/ai_thinking_orb)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ramkoirala1123/thinking_orb/blob/main/LICENSE)
 [![Demo](https://img.shields.io/badge/Demo-View%20Demo-8b5cf6.svg)](https://ramkoirala1123.github.io/thinking_orb_demo/)
 
@@ -62,5 +62,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 📄 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Licensed under the [MIT License](https://ramkoirala1123.github.io/thinking_orb_demo/).
 
