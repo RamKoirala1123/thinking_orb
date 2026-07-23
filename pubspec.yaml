@@ -1,5 +1,5 @@
 name: thinking_orb
-description: "A new Flutter package project."
+description: "A lightweight Flutter package for animated thinking-orb widgets with customizable state, speed, and size."
 version: 0.0.1
 homepage:
 
