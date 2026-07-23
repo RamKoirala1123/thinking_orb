@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:thinking_orb/thinking_orb.dart';
+import 'package:ai_thinking_orb/ai_thinking_orb.dart';
 
 void main() => runApp(const OrbsDemoApp());
 
@@ -18,7 +18,7 @@ class _OrbsDemoAppState extends State<OrbsDemoApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'thinking_orbs demo',
+      title: 'ai_thinking_orbs demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(brightness: Brightness.light, useMaterial3: true),
       darkTheme: ThemeData(brightness: Brightness.dark, useMaterial3: true),

@@ -1,4 +1,4 @@
-# 🌀 thinking_orb
+# 🌀 ai_thinking_orb
 
 [![Pub Package](https://img.shields.io/pub/v/thinking_orb)](https://pub.dev/packages/thinking_orb)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/your-username/thinking_orb/blob/main/LICENSE)
@@ -20,7 +20,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  thinking_orb: ^1.0.0
+  ai_thinking_orb: ^1.0.0
 ```
 
 Then run:

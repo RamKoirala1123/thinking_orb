@@ -1,4 +1,4 @@
-# thinking_orb
+# ai_thinking_orb
 
 A new Flutter project.
 
