@@ -1,3 +1,9 @@
+## 1.0.1
+
+* Updated package metadata and repository links for GitHub/pub package publishing
+* Refined the package description and README wording for clearer publishing readiness
+* Finalized documentation and metadata cleanup before publishing the package
+
 ## 1.0.0
 
 * Initial release of `ai_thinking_orb`
