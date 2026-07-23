@@ -34,7 +34,7 @@ flutter pub get
 Import the package:
 
 ```dart
-import 'package:thinking_orb/thinking_orb.dart';
+import 'package:ai_thinking_orb/ai_thinking_orb.dart';
 ```
 
 Example usage:
