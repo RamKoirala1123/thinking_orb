@@ -1,7 +1,9 @@
 name: thinking_orb
 description: "A lightweight Flutter package for animated thinking-orb widgets with customizable state, speed, and size."
 version: 0.0.1
-homepage:
+homepage: https://ramkoirala.com.np
+repository: https://github.com/RamKoirala/thinking_orb
+issue_tracker: https://github.com/RamKoirala/thinking_orb/issues
 
 environment:
   sdk: ^3.12.2
